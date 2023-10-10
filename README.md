@@ -1,4 +1,3 @@
-# About me
 
 I'm a 4th-year Computer Engineering student at Yildiz Technical University passionate about Data Science and Artificial Intelligence. This repository serves as a portfolio of my projects and contributions.
 
